@@ -1,0 +1,20 @@
+h1{
+	font-size: 100px;
+	padding: 50px 50px 0px 50px;
+}
+
+body{
+	background-color: white;
+}
+
+.colorChange{
+	border-radius: 20px;
+	width: 120px;
+	height: 40px;
+	margin-left: 50px;
+}
+
+p{
+	padding-left: 50px;
+	padding-right: 300px;
+}
